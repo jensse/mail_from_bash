@@ -11,8 +11,9 @@ emails from the Linux command line.
 
 In order to use this scrip you need to modify the lines, with your own values:
 
-  sender = 'your account@gmail.com'
-  password = "the password"
+
+		sender = 'your account@gmail.com'
+		password = 'the password'
 
 
 ## To the many!
